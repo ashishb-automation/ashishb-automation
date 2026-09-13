@@ -2,7 +2,7 @@
 
 **QA Automation Engineer | UI, API, Database and AI-assisted Testing**
 
-Based in Vancouver, Canada, I focus on building test solutions that give teams useful feedback—not just more test scripts. My work covers modern browser automation, API validation, database testing, CI/CD and the manual QA practices that support confident releases.
+I focus on building test solutions that give teams useful feedback—not just more test scripts. My work covers modern browser automation, API validation, database testing, CI/CD and the manual QA practices that support confident releases.
 
 I care about readable tests, stable pipelines, clear failure evidence and coverage that reflects real product risk.
 
